@@ -1,0 +1,31 @@
+/* title */
+#title{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* description */
+#description{
+    text-align: center;
+}
+
+/* background color */
+.backgroungcolor{
+    background-color: rgb(204, 194, 182);
+}
+
+/* background div */
+#survey-form{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 250vh;
+    margin: auto;
+}
+
+/* questions */
+.questions{
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 10px;
+}
